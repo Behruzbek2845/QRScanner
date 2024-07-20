@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "854454472337",
+    "firebase_url": "https://qrreader-49ed6-default-rtdb.firebaseio.com",
+    "project_id": "qrreader-49ed6",
+    "storage_bucket": "qrreader-49ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854454472337:android:4f62b70d49c690f80af930",
+        "android_client_info": {
+          "package_name": "com.example.beapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTE-birYqMIkhNIXj1yaHYHOmfRhQxac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
